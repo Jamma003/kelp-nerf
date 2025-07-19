@@ -1,26 +1,20 @@
 {
 	"schemaVersion": 1,
-	"id": "skeletonarrownerf",
+	"id": "kelpnerf",
 	"version": "${version}",
-	"name": "Skeleton Arrow Nerf",
-	"description": "Makes skeleton arrows slower, so you can sidestep arrows without needing to sprint.",
+	"name": "KelpNerf",
+	"description": "Kelp can only smelt 8 items, not 20.",
 	"authors": [
 		"Jamma003"
 	],
 	"license": "MIT",
-	"icon": "assets/skeletonaimnerf/icon.png",
+	"icon": "assets/KelpNerf/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.jamma003.skeletonarrownerf.SkeletonArrowNerf"
-		],
-		"fabric-datagen": [
-			"net.jamma003.skeletonarrownerf.SkeletonArrowNerfDataGenerator"
+			"net.jamma003.kelpnerf.KelpNerf"
 		]
 	},
-	"mixins": [
-		"skeletonarrownerf.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.16.9",
 		"minecraft": "~1.20.1",
