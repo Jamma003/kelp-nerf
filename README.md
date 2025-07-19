@@ -1,5 +1,5 @@
-Skeleton Arrow Nerf is a simple Fabric mod that reduces the speed of skeleton arrows. 
+Changes dried kelp blocks so they only smelt 8 items (same as coal) instead of the vanilla 20.
 
-If you are playing with sprinting disabled, modern vanilla skeletons shoot arrows that are too fast to avoid, even at long distance. With this mod, sidestepping at medium range is almost always enough to avoid their arrows.
+Automated kelp farming is kind of OP and I wanted coal to remain important.
 
-As a side effect of slowing down the arrow projectiles, they do slightly less damage.
+I also made a mod called Activated Coal that allows you to mix coal and redstone to smelt 16 items per coal. It goes well with this one.
